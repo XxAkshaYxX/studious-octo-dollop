@@ -7,7 +7,5 @@
   *It is where each letter is replaced by another letter in a fixed position.*
 ## Monoalphabetic Cypher
   *A monoalphabetic substitution cipher is a cipher in which each occurrence of a plaintext symbol is replaced by a corresponding ciphertext symbol to generate ciphertext.*
- : sparkles
-
-
-
+## Vigenere Cipher
+  *The most famous polyalphabetic cipher*
